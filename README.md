@@ -4,5 +4,5 @@
 3.本软件主要功能是将包含"教材名称"，"学院"，"班级"，"订数";等信息的书本订阅详细表格转化成汇总表格，使用时需填写相应参数，而excel工具则可以反向转换<br />
 4.本软件仅支持xlsx或者xls格式的excel文件，并且输出为xlsx格式的文件，经测试，本软件可在win7/win8/win10等系统上稳定运行<br />
 5.本软件最终解释权归作者所有 <br />
-特别鸣谢：<a href="https://github.com/cloudsling">linghao77</a> <a href="http://tieba.baidu.com/home/main?un=%E6%B8%B8%E8%97%A4%E6%9D%8E&ie=utf-8&fr=pb&ie=utf-8">游藤李</a><br />
+特别鸣谢：<a href="https://github.com/cloudsling" target="view_window">linghao77</a> <a href="http://tieba.baidu.com/home/main?un=%E6%B8%B8%E8%97%A4%E6%9D%8E&ie=utf-8&fr=pb&ie=utf-8" target="view_window">游藤李</a><br />
 Copyright @ 2017 版权所有 
